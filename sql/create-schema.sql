@@ -207,4 +207,4 @@ INSERT INTO `roles` (`name`) VALUES
 
 -- 0908617109
 INSERT INTO `users` (`id`,`name`, `email`, `phone`, `password`, `role_id`) VALUES
-('8e92b893-2edd-45bb-832f-51e79481843b', 'Administrator', 'trungnh@hcmute.edu.vn', '0908617109', '$2a$10$QxOaGzoBjF0UgYynSQ05OeODPS4BjP.zftcJ1RZReQkfwzL3xL6Ba', 5);
+('8e92b893-2edd-45bb-832f-51e79481843b', 'Administrator', 'harry@hcmute.edu.vn', '0901670826', '$2a$10$QxOaGzoBjF0UgYynSQ05OeODPS4BjP.zftcJ1RZReQkfwzL3xL6Ba', 5);
